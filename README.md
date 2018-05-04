@@ -1,3 +1,3 @@
-# System-Based-Encrypyion
-Based on Shamir Secret Sharing
+# System-Based-Encrypyion (Based on Shamir Secret Sharing)
+
 Working...
