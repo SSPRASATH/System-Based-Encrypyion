@@ -1,2 +1,3 @@
 # System-Based-Encrypyion
+Based on Shamir Secret Sharing
 Working...
